@@ -1,3 +1,6 @@
 {
-  "extends": "@Rocketseat/eslint-config/react"
+  "extends": "@Rocketseat/eslint-config/react",
+  "rules": {
+    "no-unused-vars": "off"
+  }
 }
